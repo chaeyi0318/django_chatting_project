@@ -1,0 +1,2 @@
+1. setting.py 수정하기
+ASGI_APPLICATION = 'talkytalk.asgi.application'
